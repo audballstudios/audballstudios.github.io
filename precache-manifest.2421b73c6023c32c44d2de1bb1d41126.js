@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fae25aed4063fe58f304954570090db4",
+    "revision": "6ce96b8d94d1fc32565f5a17ce1a7ae0",
     "url": "/index.html"
   },
   {
-    "revision": "8f1235c2ec4320d94785",
-    "url": "/static/css/main.ca37455b.chunk.css"
+    "revision": "a16ce6499946f3701348",
+    "url": "/static/css/main.8f44c438.chunk.css"
   },
   {
     "revision": "931bfeb8487fae94ffbf",
     "url": "/static/js/2.e58ea4f0.chunk.js"
   },
   {
-    "revision": "8f1235c2ec4320d94785",
+    "revision": "a16ce6499946f3701348",
     "url": "/static/js/main.bdb0ebc4.chunk.js"
   },
   {
@@ -22,54 +22,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c761f4f59495bd71d16f3abd2a6e5551",
     "url": "/static/media/NewYorkSmall-Regular.c761f4f5.otf"
-  },
-  {
-    "revision": "3a47f43ded6976045cc9c2e2f5f5e617",
-    "url": "/static/media/Sofia Pro Bold.3a47f43d.woff"
-  },
-  {
-    "revision": "4daa457caedae4caed8bbcf4019d7263",
-    "url": "/static/media/Sofia Pro Bold.4daa457c.eot"
-  },
-  {
-    "revision": "7784107fc06881df18a8152bb2501d63",
-    "url": "/static/media/Sofia Pro Bold.7784107f.ttf"
-  },
-  {
-    "revision": "c95ab58e2e6b8f4f76b4edf4f83eff0c",
-    "url": "/static/media/Sofia Pro Bold.c95ab58e.svg"
-  },
-  {
-    "revision": "58312ef8710bc538d5de267b51ab797d",
-    "url": "/static/media/Sofia Pro Light.58312ef8.ttf"
-  },
-  {
-    "revision": "8d83ef88b2beebbb9556f25e34161cbd",
-    "url": "/static/media/Sofia Pro Light.8d83ef88.eot"
-  },
-  {
-    "revision": "9d7e9b28b9370a763b9c040d02543d23",
-    "url": "/static/media/Sofia Pro Light.9d7e9b28.woff"
-  },
-  {
-    "revision": "9eefe1e9850c17fffd897802954698ee",
-    "url": "/static/media/Sofia Pro Light.9eefe1e9.svg"
-  },
-  {
-    "revision": "1a680caf3f33d0f3ef344820843b0e36",
-    "url": "/static/media/Sofia Pro Regular.1a680caf.svg"
-  },
-  {
-    "revision": "7500ca1f6a8ea50c722ecb3492d10a75",
-    "url": "/static/media/Sofia Pro Regular.7500ca1f.woff"
-  },
-  {
-    "revision": "8d4453421a7a959fce1fcf1c24b0f071",
-    "url": "/static/media/Sofia Pro Regular.8d445342.ttf"
-  },
-  {
-    "revision": "b1ce1cbebbf146b359efc5f11a0a1b9b",
-    "url": "/static/media/Sofia Pro Regular.b1ce1cbe.eot"
   },
   {
     "revision": "a9866dde6d375808fcf2fbf5351467b4",
